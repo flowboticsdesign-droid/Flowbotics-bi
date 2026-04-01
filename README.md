@@ -1,3 +1,3 @@
 ## 📸 Dashboard Preview
 
-![Overview](screenshots/overview.png)
+![Overview](Screenshot athelete injury report.png)
