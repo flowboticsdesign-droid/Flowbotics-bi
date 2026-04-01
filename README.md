@@ -1,2 +1,3 @@
-# Flowbotics-bi
-Athelete Injury Report
+## 📸 Dashboard Preview
+![Overview](screenshots/overview.png)
+![KPIs](screenshots/kpi.png)
